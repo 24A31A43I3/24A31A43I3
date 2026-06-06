@@ -143,9 +143,9 @@ React.js • Tailwind CSS • Framer Motion
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=24a31a43i3&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=24a31a43i3&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=24a31a43i3&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=24a31a43i3&layout=compact&theme=tokyonight)
 
 ---
 
