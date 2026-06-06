@@ -154,7 +154,12 @@ React.js • Tailwind CSS • Framer Motion
 ![GitHub Streak](https://streak-stats.demolab.com?user=24a31a43i3)
 
 ---
+## 🌐 Connect With Me
+
+- Portfolio: https://ganeshneeli.online
+- Email: neelig552@gmail.com
+- LinkedIn: https://linkedin.com/in/ganesh-neeli-07863732a
+
 
 ## 💡 Quote
-
-> Building technology that solves real-world problems through Software, AI, and Innovation.
+> "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन — Focus on the code you create, not the recognition it receives. Build with dedication, learn continuously, and let success follow naturally." 💻🦚🚀
