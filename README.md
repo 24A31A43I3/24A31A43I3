@@ -151,7 +151,7 @@ React.js • Tailwind CSS • Framer Motion
 
 ## 📈 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=24a31a43i3&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=24a31a43i3)
 
 ---
 
