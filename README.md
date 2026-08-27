@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ganesh Neeli
-<img src="./assets/profile.png" width="200"/>
+
 
 ### MERN Full Stack Developer | Java Full Stack Developer | AI Enthusiast
 
